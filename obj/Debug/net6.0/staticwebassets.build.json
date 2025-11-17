@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w+gjhUOvoby1LTSAxZGqUEshIXzeocm5YK6A7aQHDwE=",
+  "Source": "MusicStreamServer",
+  "BasePath": "_content/MusicStreamServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
